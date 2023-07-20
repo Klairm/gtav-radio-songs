@@ -1,7 +1,7 @@
 
   ## Script to save URI tracks from gtaV
   
-  This simple scripts adds the URI tracks from gtaV, that you can get using: https://github.com/Klairm/violentmonkey-scripts
+  This simple scripts adds the URI tracks from gtaV, that you can get using: https://github.com/Klairm/violentmonkey-scripts/tree/main/socialclub-spotify-songs you can get it [here](https://openuserjs.org/scripts/Klairm/Get_shared_spotify_tracks),
   the browser scripts searchs for your socialclub profile to get all the songs you shared in-game from the GTA V radio.
 
   #### Usage
